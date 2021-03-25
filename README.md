@@ -13,6 +13,9 @@ github 사용법
 2. git commit -m "commit message"
 3. git push origin develop
 <br>
++ 동기화
+git remote update
+git pull upstream main
 
 Error?
 Search google or contact to me.
