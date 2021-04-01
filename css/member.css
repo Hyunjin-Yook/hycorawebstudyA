@@ -7,3 +7,8 @@ li {
   font-size: 25px;
   list-style: none;
 }
+
+.inseok_photo {
+  width: 250px;
+  height: auto;
+}
