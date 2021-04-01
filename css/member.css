@@ -3,6 +3,11 @@
   height: auto;
 }
 
+.hyunjin_photo {
+  width: 300px;
+  height: auto;
+}
+
 li {
   font-size: 25px;
   list-style: none;
